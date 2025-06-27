@@ -1,1 +1,1 @@
-# app-with-argocd-integrated
+# app-with-argocd-manifest

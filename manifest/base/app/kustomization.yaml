@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: h6bro/app-with-argocd-kustomize
+- name: h6bro/app-with-argocd-integrated
   newTag: latest

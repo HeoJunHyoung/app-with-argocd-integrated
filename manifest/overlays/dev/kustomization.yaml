@@ -7,4 +7,4 @@ resources:
 images:
 - name: h6bro/app-with-argocd-integrated
   newName: h6bro/app-with-argocd-integrated
-  newTag: e700ecd
+  newTag: 62b8c6f

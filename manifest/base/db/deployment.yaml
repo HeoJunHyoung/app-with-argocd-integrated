@@ -21,8 +21,6 @@ spec:
           env:
             - name: MYSQL_ROOT_PASSWORD
               value: k8s12345
-            - name: MYSQL_DATABASE
-              value: app    # 👉 이걸 추가하면 자동으로 'app' DB가 생성됨
           volumeMounts:
             - mountPath: /var/lib/mysql
               name: mysql-storage

@@ -8,3 +8,6 @@ images:
 - name: h6bro/app-with-argocd-integrated
   newName: h6bro/app-with-argocd-integrated
   newTag: 2d2e9eb
+
+namespace: dev
+namePrefix: dev-

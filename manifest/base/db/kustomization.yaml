@@ -6,3 +6,4 @@ resources:
 # - service.yaml
 - deployment.yaml
 
+namespace: app-with-argocd-db

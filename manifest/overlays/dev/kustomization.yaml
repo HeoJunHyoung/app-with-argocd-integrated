@@ -7,6 +7,6 @@ resources:
 images:
 - name: h6bro/app-with-argocd-integrated
   newName: h6bro/app-with-argocd-integrated
-  newTag: c99752c
+  newTag: d5ee978
 
 namespace: dev
